@@ -1,6 +1,7 @@
 export const Bio = {
   name: "Shaloof Saleem",
   roles: [
+    "Digital Marketing",
     "Full Stack Developer",
     "Python Developer",
     "Machine Learning",
